@@ -1,0 +1,12 @@
+{
+  "name": "starter-a",
+  "description": "",
+  "version": "0.0.0",
+  "dependencies": {
+    "lerna": "3.21.0"
+  },
+  "license": "UNLICENSED",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  }
+}

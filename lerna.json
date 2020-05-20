@@ -1,0 +1,13 @@
+{
+  "npmClient": "npm",
+  "command": {
+    "bootstrap": {
+      "strict": true,
+      "ignorePrepublish": true,
+      "includeDependencies": true,
+      "loglevel": "verbose"
+    }
+  },
+  "packages": ["packages/*"],
+  "version": "independent"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "@issue/theme-a",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "scripts": {},
+  "peerDependencies": {
+    "gatsby": "^2.13.13",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "@emotion/core": "10.0.28",
+    "@emotion/styled": "10.0.27",
+    "@theme-ui/typography": "^0.2.46",
+    "gatsby-plugin-emotion": "4.3.1",
+    "gatsby-plugin-react-helmet": "3.3.1",
+    "gatsby-plugin-theme-ui": "^0.2.53",
+    "react-helmet": "6.0.0",
+    "theme-ui": "^0.2.52"
+  },
+  "devDependencies": {
+    "@types/react-helmet": "6.0.0",
+    "gatsby": "^2.22.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
