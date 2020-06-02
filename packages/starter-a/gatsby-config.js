@@ -1,5 +1,5 @@
 module.exports = {
     plugins: [
-        'theme-a'
+        '@issue/theme-a'
     ]
 }
