@@ -2,6 +2,7 @@
   "npmClient": "npm",
   "command": {
     "bootstrap": {
+      "hoist" :  true,
       "strict": true,
       "ignorePrepublish": true,
       "includeDependencies": true,
