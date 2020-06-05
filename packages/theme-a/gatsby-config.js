@@ -5,14 +5,14 @@ module.exports = {
     author: ``,
   },
 
-  plugins: [
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: "src/images",
-      },
-    },
+  //plugins: [
+  //  {
+  //    resolve: "gatsby-source-filesystem",
+  //    options: {
+  //      name: "images",
+  //      path: "src/images",
+  //    },
+  //  },
 
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
