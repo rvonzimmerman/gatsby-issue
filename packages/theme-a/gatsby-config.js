@@ -5,7 +5,7 @@ module.exports = {
     author: ``,
   },
 
-  //plugins: [
+  plugins: [
   //  {
   //    resolve: "gatsby-source-filesystem",
   //    options: {
@@ -19,5 +19,5 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-emotion",
     "gatsby-plugin-theme-ui",
-  ],
+  ]
 };
