@@ -1,5 +1,5 @@
 import React from 'react';
 
-const Index  = () => <div> Hi. I'm B! </div>;
+const Index  = () => <div> This is a test!!!!!! </div>;
 
 export default Index;
