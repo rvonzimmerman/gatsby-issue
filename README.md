@@ -81,3 +81,4 @@
 
 ## Workaround
 Currently, I'm installing these plugins into the starter, but it doesn't seem like I should need to?
+We manually linked things :B
